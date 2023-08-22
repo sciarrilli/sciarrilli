@@ -1,16 +1,3 @@
-### Hi there 👋
-
-
-**sciarrilli/sciarrilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on machine learning
-- 🌱 I’m currently learning nextjs and amplify
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I enjoy cycling
+<h1 align="center">Hi, I'm Nick, a solutions architect</h1>
+<h2 align="center"><a href="https://neeco.io/" target="_blank" rel="noreferrer">My project portfolio</a></h2>
 
