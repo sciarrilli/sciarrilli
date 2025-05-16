@@ -1,3 +1,6 @@
-<h3 align="center">Hey, I'm Nick. I'm a senior data scientist at AWS on the Amazon SageMaker team.</h3>
-<h4 align="center"><a href="https://ilikespicy.com/" target="_blank" rel="noreferrer">i like spicy</a></h4>
+# Hi there 👋
+This is Nick. I am a data scientist at AWS on the SageMaker AI team. I try to cook interesting things and have fun.
 
+For more infomation, see you on my [homepage](https://blog.ilikespicy.com) :)
+
+> Last updated: May 2025
