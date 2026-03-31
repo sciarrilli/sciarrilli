@@ -1,6 +1,4 @@
 
-I'm Nick Sciarrilli. I am a data scientist on the SageMaker AI team at AWS. I try to cook interesting things and have fun.
+I'm Nick Sciarrilli. I am a data scientist on the SageMaker AI team at AWS. 
 
-For more infomation, see you on my [homepage](https://blog.ilikespicy.com) :)
-
-> Last updated: July 2025
+> Last updated: March 2026
